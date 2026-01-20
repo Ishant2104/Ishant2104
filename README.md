@@ -26,7 +26,7 @@
 
 ### 💻 Programming & Data
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,pandas,numpy,sklearn,tensorflow,statsmodel,pytorch,excel,powerbi,git,github,linux,vscode,pycharm,anaconda,jupyter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,sklearn,tensorflow,pytorch,git,github,linux,vscode,pycharm,anaconda&perline=6" />
 </p>
 
 ### 📊 Data Science & ML
