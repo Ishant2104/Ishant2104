@@ -61,13 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishant2104&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishant2104&layout=compact&theme=dark)](https://github.com/Ishant2104/github-readme-stats)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
