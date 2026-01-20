@@ -32,7 +32,7 @@
 ### 📊 Data Science & ML
 - Pandas, NumPy, Scikit-Learn, Tensorflow, Statsmodel
 - Matplotlib, Seaborn  
-- Feature Engineering & Model Evaluation  
+- Exploratory Data Analysis, Feature Engineering & Model Evaluation  
 - Advanced Excel, Power BI (Dashboards & KPIs)
 
 ---
