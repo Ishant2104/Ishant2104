@@ -1,11 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Ishant%20Cane&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="./Github.png" alt="Banner" />
 </p>
 
-<h3 align="center">
-Aspiring Data Scientist | Machine Learning Enthusiast | Analytics Thinker
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=650&lines=Learning+by+building+real-world+projects;Data+Science+%7C+Machine+Learning+%7C+Analytics;Turning+data+into+clear+business+insights" />
