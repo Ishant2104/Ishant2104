@@ -16,24 +16,24 @@
 📊 Actively learning and building projects in **Data Science & Machine Learning**
 
 - 🔭 Working on real-world ML & analytics problems  
-- 📈 Interested in **Churn, CLV, Lead Scoring & Risk Modeling**  
+- 📈 Interested in **Forecasting, Segmentation, Churn, CLV, Lead Scoring & Risk Modeling**  
 - 🧠 Focus on understanding *why* a model works, not just results  
-- 🎯 Long-term goal: **Professional Data Scientist**
+- 🎯 Long-term goal: **Professional Data Scientist/AI Engineer**
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,linux" />
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,pandas,numpy,sklearn,tensorflow,statsmodel,pytorch,excel,powerbi,git,github,linux,vscode,pycharm,anaconda,jupyter&perline=10" />
 </p>
 
 ### 📊 Data Science & ML
 - Pandas, NumPy, Scikit-Learn  
 - Matplotlib, Seaborn  
 - Feature Engineering & Model Evaluation  
-- Power BI (Dashboards & KPIs)
+- Advanced Excel, Power BI (Dashboards & KPIs)
 
 ---
 
@@ -63,10 +63,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishant2104&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishant2104&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishant2104&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishant2104&layout=compact&theme=dark)](https://github.com/Ishant2104/github-readme-stats)
 
 ---
 
