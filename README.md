@@ -34,6 +34,7 @@
 - Matplotlib, Seaborn  
 - Exploratory Data Analysis, Feature Engineering & Model Evaluation  
 - Advanced Excel, Power BI (Dashboards & KPIs)
+- MySQL, PostgreSQL
 
 ---
 
