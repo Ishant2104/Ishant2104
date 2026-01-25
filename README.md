@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-🎓 **BSc Physical Science (Computers)**  
+🎓 **BSc Physical Science (Computers Science)**  
 📊 Actively learning and building projects in **Data Science & Machine Learning**
 
 - 🔭 Working on real-world ML & analytics problems  
